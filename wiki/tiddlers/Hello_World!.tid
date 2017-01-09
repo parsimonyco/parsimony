@@ -1,0 +1,12 @@
+author: Parsimony
+created: 20170108175451552
+modified: 20170108181053491
+tags: programming [[computer science]]
+title: Hello World!
+type: text/vnd.tiddlywiki
+
+A very typical first program, printing out:
+
+<<<
+`"Hello World!"`
+<<<
