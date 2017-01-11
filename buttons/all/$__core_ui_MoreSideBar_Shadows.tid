@@ -1,0 +1,5 @@
+caption: {{$:/language/SideBar/Shadows/Caption}}
+tags: $:/tags/MoreSideBar
+title: $:/core/ui/MoreSideBar/Shadows
+
+<$list filter={{$:/core/Filters/ShadowTiddlers!!filter}} template="$:/core/ui/ListItemTemplate"/>

@@ -1,0 +1,5 @@
+caption: {{$:/language/SideBar/Drafts/Caption}}
+tags: $:/tags/MoreSideBar
+title: $:/core/ui/MoreSideBar/Drafts
+
+<$list filter={{$:/core/Filters/Drafts!!filter}} template="$:/core/ui/ListItemTemplate"/>
