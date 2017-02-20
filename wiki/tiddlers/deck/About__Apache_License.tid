@@ -1,0 +1,13 @@
+created: 20170220181808272
+modified: 20170220194642941
+source: wikipedia.org
+tags: About Apache legal FOSS [[free software]]
+title: About: Apache License
+type: text/vnd.tiddlywiki
+url: https://en.wikipedia.org/wiki/Apache_License
+
+The [[Apache License|Apache License 2.0]] (ASL) is a permissive [[free software]] license written by the [[Apache Software Foundation (ASF)|Apache Software Foundation]]. The Apache License requires preservation of the [[copyright]] notice and disclaimer. Like other free software licenses, the license allows the user of the software the freedom to use the software for any purpose, to distribute it, to modify it, and to distribute modified versions of the software, under the terms of the license, without concern for royalties. This makes ASL a [[RAND]] license. The ASF and its projects release the software they produce under the Apache License and many non-ASF projects are also using the ASL.
+
+A free software license is a notice that grants the recipient extensive rights to modify and redistribute that software. These actions are usually prohibited by copyright law, but the rights-holder (usually the author) of a piece of software can remove these restrictions by accompanying the software with a software license which grants the recipient these rights. Software using such a license is free software (or [[free and open source software|FOSS]]) as conferred by the copyright holder. Free software licenses are applied to software in [[source code]] as also [[binary object code]] form, as the copyright law recognizes both forms. 
+
+Notable projects that use one of the versions of the ASL include: [[Android]], [[Hadoop|Apache Hadoop]] ([[Flume|Apache Flume]], [[HBase|Apache HBase]], [[Hive|Apache Hive]], [[Impala|Apache Impala]], [[Mahout|Apache Mahout]], [[Oozie|Apache Oozie]], [[Pig|Apache Pig]], [[Phoenix|Apache Phoenix]], [[Spark|Apache Spark]], [[Sqoop|Apache Sqoop]], [[Storm|Apache Storm]], [[ZooKeeper|Apache ZooKeeper]]), [[HTTP Server|Apache HTTP Server]], [[OpenOffice]], [[TensorFlow]].

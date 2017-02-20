@@ -1,10 +1,11 @@
 author: Parsimony
 created: 20170220000929086
-modified: 20170220164145440
-source: http://code.org
+modified: 20170220171206016
+source: code.org
 tags: programming [[computer science]]
 title: Hello World!
 type: text/vnd.tiddlywiki
+url: http://code.org/hellowworld
 
 A very typical first program, printing out:
 

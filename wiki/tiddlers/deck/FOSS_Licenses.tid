@@ -1,0 +1,8 @@
+created: 20170220193222353
+modified: 20170220195116409
+tags: FOSS legal list
+title: FOSS Licenses
+type: text/vnd.tiddlywiki
+
+The following is a list of [[free or open source software|FOSS]] licenses:
+<<list-links "[tag[licenses]]">>

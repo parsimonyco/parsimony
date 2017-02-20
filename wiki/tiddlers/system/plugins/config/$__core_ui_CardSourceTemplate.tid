@@ -1,11 +1,11 @@
 created: 20170220135029005
-modified: 20170220163808839
+modified: 20170220171053029
 tags: 
 title: $:/core/ui/CardSourceTemplate
 type: text/vnd.tiddlywiki
 
 <div class="tc-menu-list-item">
-<$link to={{!!source}}>
+<$link to={{!!url}}>
 <$view field=<<cSource>>/>
 </$link>
 </div>

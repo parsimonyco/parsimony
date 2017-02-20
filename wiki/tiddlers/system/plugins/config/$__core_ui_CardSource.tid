@@ -1,7 +1,7 @@
 created: 20170220132514096
-modified: 20170220161042654
+modified: 20170220170838550
 tags: 
 title: $:/core/ui/CardSource
 type: text/vnd.tiddlywiki
 
-<$list filter="[all[current]fields[]] -text -bag -revision -type -title -tags -modified -created -author" template="$:/core/ui/CardSourceTemplate" variable="cSource" emptyMessage="@@.text-grey none@@"/>
+<$list filter="[all[current]fields[]] -text -bag -revision -type -title -tags -modified -created -author -url" template="$:/core/ui/CardSourceTemplate" variable="cSource" emptyMessage="@@.text-grey none@@"/>
